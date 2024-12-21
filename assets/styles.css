@@ -1,0 +1,21 @@
+
+.logo{
+    margin-right: 10px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+    background-color: black !important;
+}
+.nav-item .nav-link{
+    color: gray;
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+.icon1{
+    padding-right: 5px;
+    padding-left: 5px;
+}
